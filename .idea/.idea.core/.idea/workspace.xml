@@ -4,14 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="590920ef-3cfd-4d97-be8d-3a00a67f9b1f" name="Changes" comment="" />
+    <list default="true" id="590920ef-3cfd-4d97-be8d-3a00a67f9b1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../build" beforeDir="false" afterPath="$PROJECT_DIR$/../build" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../build/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../build/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.core/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.core/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.core/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CommandLine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CommandLine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Mod.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Mod.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scythe/scythe-lib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scythe/scythe-lib.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -25,7 +35,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "88746186",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -112,6 +122,8 @@
       <updated>1760681656729</updated>
       <workItem from="1760681658944" duration="5402000" />
       <workItem from="1760696113837" duration="5042000" />
+      <workItem from="1760756359680" duration="636000" />
+      <workItem from="1760760292737" duration="1926000" />
     </task>
     <servers />
   </component>

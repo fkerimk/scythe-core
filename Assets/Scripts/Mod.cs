@@ -17,8 +17,6 @@ public static class Mod {
         Config = new IniFile(ConfigPath);
         Name = Config.Read("mod", "name", "null");
         
-        File.WriteAllText(SysPath.Join(Application.dataPath, "log.log.log"), Path + "\n" + ConfigPath + "\n" + Name);
-        
-        //if (Name == "null") Application.Quit(1);
+        if (Name == "null") Application.Quit(1);
     }
 }
