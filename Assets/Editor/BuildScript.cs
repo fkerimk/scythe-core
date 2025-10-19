@@ -1,5 +1,6 @@
+using scythe;
 using UnityEditor;
-using UnityEngine;
+using UnityEditor.Build;
 
 public class BuildScript  {
     
@@ -12,8 +13,11 @@ public class BuildScript  {
 
         var scenes = new[] { "Assets/Scenes/Main.unity" };
         
-        Debug.Log("Linux is good: " + buildLinux);
-        Debug.Log("Windows is good: " + buildWindows);
+        PlayerSettings.SetScriptingBackend(
+            
+            NamedBuildTarget.Standalone,
+            ScriptingImplementation.Mono2x
+        );
         
         if (buildLinux == "true") {
             

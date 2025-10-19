@@ -1,22 +1,21 @@
 using scythe;
 using System.IO;
 using UnityEngine;
-using SysPath = System.IO.Path;
 
 public static class Mod {
-
-    public static string Path;
-    public static string ConfigPath;
-    public static IniFile Config;
-    public static string Name;
+    
+    private static string _path;
+    private static string _configPath;
+    private static IniFile _config;
+    private static string _name;
     
     public static void Load(string modPath) {
 
-        Path = modPath;
-        ConfigPath = SysPath.Join(Path, "mod.ini");
-        Config = new IniFile(ConfigPath);
-        Name = Config.Read("mod", "name", "null");
+        _path = modPath;
+        _configPath = Path.Join(_path, "mod.ini");
+        _config = new IniFile(_configPath);
+        _name = _config.Read("mod", "name", "null");
         
-        if (Name == "null") Application.Quit(1);
+        if (_name == "null") Application.Quit(1);
     }
 }
