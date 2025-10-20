@@ -9,19 +9,14 @@
       <change beforePath="$PROJECT_DIR$/../build/build.fish" beforeDir="false" afterPath="$PROJECT_DIR$/../build/build.fish" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../build/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../build/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.core/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Editor/BuildScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/BuildScript.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CommandLine.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CommandLine.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Loader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Loader.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Mod.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Mod.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scythe/scythe-lib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scythe/scythe-lib.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib" beforeDir="false" afterPath="$PROJECT_DIR$/../lib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/.idea/.idea.lib.dir/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/.idea/.idea.lib.dir/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../run" beforeDir="false" afterPath="$PROJECT_DIR$/../run" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../run/.idea/.idea.run.dir/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../run/.idea/.idea.run.dir/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Splash.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mods/template" beforeDir="false" afterPath="$PROJECT_DIR$/../mods/template" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mods/template/mod.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../mods/template/mod.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +26,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Modules/mod_splash.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Reflector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Script.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="34BKiolRtTHoel75T92Eddi2ElX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -134,6 +138,7 @@
       <workItem from="1760760292737" duration="1926000" />
       <workItem from="1760833369332" duration="2705000" />
       <workItem from="1760836082796" duration="233000" />
+      <workItem from="1760836337764" duration="10232000" />
     </task>
     <servers />
   </component>
